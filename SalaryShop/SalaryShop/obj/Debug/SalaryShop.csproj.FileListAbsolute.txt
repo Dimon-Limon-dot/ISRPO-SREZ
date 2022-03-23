@@ -1,0 +1,4 @@
+C:\Users\dpyat\source\repos\SalaryShop\SalaryShop\obj\Debug\SalaryShop.csprojAssemblyReference.cache
+C:\Users\dpyat\source\repos\SalaryShop\SalaryShop\obj\Debug\App.g.cs
+C:\Users\dpyat\source\repos\SalaryShop\SalaryShop\obj\Debug\SalaryShop_MarkupCompile.cache
+C:\Users\dpyat\source\repos\SalaryShop\SalaryShop\obj\Debug\SalaryShop_MarkupCompile.lref
